@@ -1,0 +1,7 @@
+C:\Users\xq17\source\repos\my\MyStudy.DAL\bin\Debug\MyStudy.DAL.dll.config
+C:\Users\xq17\source\repos\my\MyStudy.DAL\bin\Debug\MyStudy.DAL.dll
+C:\Users\xq17\source\repos\my\MyStudy.DAL\bin\Debug\MyStudy.DAL.pdb
+C:\Users\xq17\source\repos\my\MyStudy.DAL\obj\Debug\MyStudy.DAL.csprojAssemblyReference.cache
+C:\Users\xq17\source\repos\my\MyStudy.DAL\obj\Debug\MyStudy.DAL.csproj.CoreCompileInputs.cache
+C:\Users\xq17\source\repos\my\MyStudy.DAL\obj\Debug\MyStudy.DAL.dll
+C:\Users\xq17\source\repos\my\MyStudy.DAL\obj\Debug\MyStudy.DAL.pdb

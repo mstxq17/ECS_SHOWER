@@ -1,0 +1,10 @@
+C:\Users\xq17\source\repos\my\MyStudy.BLL\obj\Debug\MyStudy.BLL.csprojAssemblyReference.cache
+C:\Users\xq17\source\repos\my\MyStudy.BLL\obj\Debug\MyStudy.BLL.csproj.CoreCompileInputs.cache
+C:\Users\xq17\source\repos\my\MyStudy.BLL\bin\Debug\MyStudy.BLL.dll
+C:\Users\xq17\source\repos\my\MyStudy.BLL\bin\Debug\MyStudy.BLL.pdb
+C:\Users\xq17\source\repos\my\MyStudy.BLL\bin\Debug\MyStudy.DAL.dll
+C:\Users\xq17\source\repos\my\MyStudy.BLL\bin\Debug\MyStudy.DAL.pdb
+C:\Users\xq17\source\repos\my\MyStudy.BLL\bin\Debug\MyStudy.DAL.dll.config
+C:\Users\xq17\source\repos\my\MyStudy.BLL\obj\Debug\MyStudy.BLL.csproj.CopyComplete
+C:\Users\xq17\source\repos\my\MyStudy.BLL\obj\Debug\MyStudy.BLL.dll
+C:\Users\xq17\source\repos\my\MyStudy.BLL\obj\Debug\MyStudy.BLL.pdb

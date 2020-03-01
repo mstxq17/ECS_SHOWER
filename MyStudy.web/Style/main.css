@@ -1,0 +1,6 @@
+#mytable th{
+    text-align: center;
+}
+#mytable td{
+    vertical-align: middle;text-align: center;
+}
